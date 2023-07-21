@@ -36,3 +36,10 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+.idea
+.idea/
+src/test
+src/test/
+src/main/resources
+src/main/resources/
